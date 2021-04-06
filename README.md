@@ -1,5 +1,5 @@
 ## Configuration
-Clone the api-java repository (you can do it from your IDE)
+Clone the api-java repository (you can do it from your IDE) :
 ```
 git clone git@github.com:MSPR-La-Revanche/javaspring-api.git
 ```
