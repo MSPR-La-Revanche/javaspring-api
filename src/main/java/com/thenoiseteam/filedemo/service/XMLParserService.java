@@ -29,7 +29,7 @@ public class XMLParserService {
 
         int id;
         String name, value;
-        String TABLE = "datas";
+        String TABLE = "apirsc";
 
         DocumentBuilderFactory factory = DocumentBuilderFactory.newInstance();
         DocumentBuilder builder = factory.newDocumentBuilder();

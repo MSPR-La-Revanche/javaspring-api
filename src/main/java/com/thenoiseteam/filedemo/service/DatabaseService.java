@@ -18,7 +18,7 @@ public class DatabaseService {
             System.out.println("Connecting to database...");
 
             // Connection for prod database
-            conn = DriverManager.getConnection("jdbc:mysql://sql4.freemysqlhosting.net:3306/sql4403036", user, password);
+            conn = DriverManager.getConnection("jdbc:mysql://mspr3.cvnjavny8la2.eu-west-3.rds.amazonaws.com:3306/mspr3db", user, password);
             // Connection for local database
             // conn = DriverManager.getConnection("jdbc:mysql://localhost:8889/mspr", user, password);
             System.out.println("Connection success");
@@ -31,7 +31,7 @@ public class DatabaseService {
 
     public void checkConnection() {
         if (!connected) {
-            DBconnect("sql4403036", "VuH83GZFAM");
+            DBconnect("root", "mypass123");
             connected = true;
         }
     }
