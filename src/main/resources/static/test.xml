@@ -3,15 +3,123 @@
 <datas>
 
 <data>
-	<uniqueID>42</uniqueID>
-	<name>Nom parc</name>
-	<value>Parc de la beurette</value>
+	<uniqueID>1</uniqueID>
+	<name>Pays</name>
+	<value>Russie</value>
 </data>
 
 <data>
-	<uniqueID>8000</uniqueID>
-	<name>Événement</name>
-	<value>Festival de la charcuterie</value>
+	<uniqueID>2</uniqueID>
+	<name>Ville</name>
+	<value>Paris</value>
 </data>
-<!-- ... etc ... -->
+
+<data>
+	<uniqueID>3</uniqueID>
+	<name>Ville</name>
+	<value>Milan</value>
+</data>
+
+<data>
+	<uniqueID>4</uniqueID>
+	<name>Ville</name>
+	<value>Bordeaux</value>
+</data>
+
+<data>
+	<uniqueID>5</uniqueID>
+	<name>Pays</name>
+	<value>Pologne</value>
+</data>
+
+<data>
+	<uniqueID>6</uniqueID>
+	<name>Pays</name>
+	<value>Allemagne</value>
+</data>
+
+<data>
+	<uniqueID>7</uniqueID>
+	<name>Pays</name>
+	<value>Ukraine</value>
+</data>
+
+<data>
+	<uniqueID>8</uniqueID>
+	<name>Ville</name>
+	<value>Budapest</value>
+</data>
+
+<data>
+	<uniqueID>9</uniqueID>
+	<name>Ville</name>
+	<value>Stuttgart</value>
+</data>
+
+<data>
+	<uniqueID>10</uniqueID>
+	<name>Pays</name>
+	<value>Hongrie</value>
+</data>
+
+<data>
+	<uniqueID>11</uniqueID>
+	<name>Ville</name>
+	<value>Amsterdam</value>
+</data>
+
+<data>
+	<uniqueID>12</uniqueID>
+	<name>Pays</name>
+	<value>Pays-Bas</value>
+</data>
+
+<data>
+	<uniqueID>13</uniqueID>
+	<name>Lieu</name>
+	<value>Tour Eiffel</value>
+</data>
+
+<data>
+	<uniqueID>14</uniqueID>
+	<name>Lieu</name>
+	<value>Times Square</value>
+</data>
+
+<data>
+	<uniqueID>15</uniqueID>
+	<name>Lieu</name>
+	<value>Taj Mahal</value>
+</data>
+
+<data>
+	<uniqueID>16</uniqueID>
+	<name>Lieu</name>
+	<value>British Museum</value>
+</data>
+
+<data>
+	<uniqueID>17</uniqueID>
+	<name>Lieu</name>
+	<value>Grande Muraille de Chine</value>
+</data>
+
+<data>
+	<uniqueID>18</uniqueID>
+	<name>Lieu</name>
+	<value>Navy Pier</value>
+</data>
+
+<data>
+	<uniqueID>19</uniqueID>
+	<name>Lieu</name>
+	<value>Le Grand Bazar</value>
+</data>
+
+<data>
+	<uniqueID>20</uniqueID>
+	<name>Lieu</name>
+	<value>Union Station</value>
+</data>
+
 </datas>
